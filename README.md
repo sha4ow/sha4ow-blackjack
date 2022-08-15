@@ -1,7 +1,7 @@
 # Sha4ow-BlackJack# 
 Hello everyone This is Sha4ow here! I've fixed all bugs and made it easy to use for Qb-Core framework, just drag and drop 
  
-[![N|Solid](https://i.gyazo.com/8d6087d72268cf1aebe5c8fec2218769.png)]()
+[![N|Solid](https://cdn.discordapp.com/attachments/1001745761987461190/1008607694342606889/unknown.png)]()
 
 Features:
 * All networked with up to 16 players playing at the same time
