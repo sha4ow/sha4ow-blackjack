@@ -1,4 +1,4 @@
-# Sha4ow-BLACKJACK# 
+# Sha4ow-BlackJack# 
 Hello everyone This is Sha4ow here! I've fixed all bugs and made it easy to use for Qb-Core framework, just drag and drop 
  
 [![N|Solid](https://i.gyazo.com/8d6087d72268cf1aebe5c8fec2218769.png)]()
